@@ -1,9 +1,9 @@
 # Space object comparison
 
-<a href="">
-  <img src=""/>
+<a href="https://korhanafsar.github.io/Space-object-comparison-Korhan-Afsar/">
+  <img src="https://korhanafsar.github.io/Space-object-comparison-Korhan-Afsar/#earth,moon"/>
 </a>
 
-<a href="">
-  <img src=""/>
+<a href="https://korhanafsar.github.io/Space-object-comparison-Korhan-Afsar/">
+  <img src="https://korhanafsar.github.io/Space-object-comparison-Korhan-Afsar/#earth,moon"/>
 </a>
